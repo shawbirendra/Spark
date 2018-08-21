@@ -1,0 +1,9 @@
+What Is Apache Spark?
+    ->Apache Spark is an open-source framework for processing huge volumes of data (big data) with speed and simplicity.
+    ->It is suitable for analytics applications based on big data. 
+    ->Spark is also extremely powerful and has the innate ability to quickly process massive amounts of data in a short span of time,
+      thus offering extremely good performance. This makes it a lot faster than HADOOP.
+     
+Why Spark?
+   ->Parallel Distributed processing, fault tolerance, scalability, in-memory computing, high-level API
+   ->saves time & money
